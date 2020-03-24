@@ -1,0 +1,11 @@
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csprojAssemblyReference.cache
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe.config
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.pdb
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\EntityFramework.dll
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\EntityFramework.xml
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csproj.CopyComplete
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.exe
+D:\dotnet\advanced\3Good\ModelDesignFirst_L1\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.pdb
